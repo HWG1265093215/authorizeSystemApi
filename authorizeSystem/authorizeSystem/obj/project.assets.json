@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\authorizeSystemApi\\authorizeSystem\\authorizeSystem\\authorizeSystem.csproj",
+      "projectUniqueName": "D:\\新建文件夹 (3)\\authorizeSystem\\authorizeSystem\\authorizeSystem.csproj",
       "projectName": "authorizeSystem",
-      "projectPath": "D:\\authorizeSystemApi\\authorizeSystem\\authorizeSystem\\authorizeSystem.csproj",
+      "projectPath": "D:\\新建文件夹 (3)\\authorizeSystem\\authorizeSystem\\authorizeSystem.csproj",
       "packagesPath": "C:\\Users\\hwg\\.nuget\\packages\\",
-      "outputPath": "D:\\authorizeSystemApi\\authorizeSystem\\authorizeSystem\\obj\\",
+      "outputPath": "D:\\新建文件夹 (3)\\authorizeSystem\\authorizeSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hwg\\AppData\\Roaming\\NuGet\\NuGet.Config",
