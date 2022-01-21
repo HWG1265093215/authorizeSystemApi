@@ -26,6 +26,7 @@ namespace authorizeSystem.Controllers
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
+            string temp = "ceshi1";
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
