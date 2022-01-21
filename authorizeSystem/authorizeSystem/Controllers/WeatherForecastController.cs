@@ -13,7 +13,7 @@ namespace authorizeSystem.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","Sumber"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","Sumber","333"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
